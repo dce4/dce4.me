@@ -7,4 +7,4 @@ description: Instructions of this website
 image:
 ---
 
-This website's creation instructions will be placed here. Yes it will. Soon....
+This website's creation instructions will be placed here.
