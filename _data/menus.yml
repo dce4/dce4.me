@@ -1,0 +1,11 @@
+- title: home
+  url: /
+  external: false
+
+- title: about
+  url: /about/
+  external: false
+
+#- title: notes
+#  url: /notes/
+#  external: false
