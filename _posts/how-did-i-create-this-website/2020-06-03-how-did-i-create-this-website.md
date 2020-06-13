@@ -259,6 +259,6 @@ Lastly, we need to run webhook handler background and make sure it is still goin
 - [Creator of this theme I'm using](https://github.com/piharpi/jekyll-klise)
 - [For auto deploy](https://ryanharrison.co.uk/2018/07/05/jekyll-rebuild-github-webhook.html)
 - [Running processes background](https://medium.com/@arnab.k/how-to-keep-processes-running-after-ending-ssh-session-c836010b26a3)
-### Further Reading:
+### Further Reading
 - [https://www.staticgen.com/](https://www.staticgen.com/) for different language/template combinations.
 - [https://youtu.be/LfP7Y9Ja6Qc](https://youtu.be/LfP7Y9Ja6Qc) windows installation.
