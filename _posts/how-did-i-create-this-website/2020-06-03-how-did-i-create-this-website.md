@@ -92,7 +92,7 @@ git push -u origin master
 After pushing the codes to new repo, we need to Turn On source options from settings:
 
 <figure>
-<img src="/how-did-i-create-this-website/github.png" alt="">
+<img src="/how-did-i-create-this-website/github2.png" alt="">
 <figcaption>Source Options</figcaption>
 </figure>
 
