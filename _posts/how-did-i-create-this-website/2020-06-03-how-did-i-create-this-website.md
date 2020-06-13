@@ -11,7 +11,7 @@ In this post we will be talking about how to set your own static website up, how
 
 First things first, we'll be using Jekyll static website generator on Linux, Ruby for building our website and Ubuntu 19.10 built in our [VPS](https://en.wikipedia.org/wiki/Virtual_private_server).  Therefore, installation process may differ on other OS'es. If you're looking for building a static website with Windows instructions or using different Template/Language usage on development, see [further reading](http://www.dce4.me/how-did-i-create-this-website/#further-reading) section down below. In addition to my initial sentences, behold! Because substantially we'll be using Vim to edit things and if you are unexperienced about it, you may find yourself Googling ***how to quit Vim :(((((((***. Joking, its easy.
 
-### Creating your website with Jekyll.
+### Creating your website with Jekyll
 Prerequisites:
 - Ruby-Full
 - Jekyll and bundler gems
