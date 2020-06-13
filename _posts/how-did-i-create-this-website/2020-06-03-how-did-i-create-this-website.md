@@ -9,7 +9,7 @@ image:
 
 In this post we will be talking about how to set your own static website up, how to host it in your VPS and how to deploy it automatically with GitHub Webhooks when a push event happened in website's GitHub repository.
 
-First things first, we'll be using Jekyll static website generator on Linux, Ruby for building our website and Ubuntu 19.10 built in our [VPS](https://en.wikipedia.org/wiki/Virtual_private_server).  Therefore, installation process may differ on other OS'es. If you're looking for building a static website with Windows instructions or using different Template/Language usage on development, see [furhter reading](http://www.dce4.me/how-did-i-create-this-website/#further-reading) section down below. In addition to my initial sentences, behold! Because substantially we'll be using Vim to edit things and if you are unexperienced about it, you may find yourself Googling ***how to quit Vim :(((((((***. Joking, its easy.
+First things first, we'll be using Jekyll static website generator on Linux, Ruby for building our website and Ubuntu 19.10 built in our [VPS](https://en.wikipedia.org/wiki/Virtual_private_server).  Therefore, installation process may differ on other OS'es. If you're looking for building a static website with Windows instructions or using different Template/Language usage on development, see [further reading](http://www.dce4.me/how-did-i-create-this-website/#further-reading) section down below. In addition to my initial sentences, behold! Because substantially we'll be using Vim to edit things and if you are unexperienced about it, you may find yourself Googling ***how to quit Vim :(((((((***. Joking, its easy.
 
 ### Creating your website with Jekyll.
 Prerequisites:
@@ -57,7 +57,7 @@ git clone https://github.com/piharpi/jekyll-klise.git
 cd jekyll-klise
 ```
 
-after then, we need to install the themes gem dependencies while in the same directory by this command:
+after then, we need to install the theme's gem dependencies while in the same directory by this command:
 
 ```bash
 bundle install
@@ -115,7 +115,7 @@ server {
     listen         80;
     listen         [::]:80;
     server_name    yoursite.com www.yoursite.com;
-    root           /var/www/dce4.me/_site;
+    root           /var/www/yoursite.com/_site;
     index          index.html;
 
     gzip             on;
@@ -252,6 +252,7 @@ Lastly, we need to run webhook handler background and make sure it is still goin
 
 ### Some tips and alerts
 - Our webhook handler is vulnerable to some attacks at this point, we kept it that way intentionally to make it simple. Please do use your secret key given in webhook creation process before triggering the script and create a new low privileged user to handle all of this website deployment processes.
+- Please feel free to get in touch if you have any trouble with a step, I would be more than happy to help.
 
 ### Sources
 - [Giraffe Academy videos](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
