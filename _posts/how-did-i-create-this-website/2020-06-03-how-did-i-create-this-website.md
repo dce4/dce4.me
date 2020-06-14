@@ -169,7 +169,7 @@ source ~/.bashrc
 gem install jekyll bundler
 ```
 
-At this point, our site will be working under `/var/www/yoursite.com/_site` build it to `\_site` folder and enter our machine IP address to browser. We need to get site files to our server machine, and we have options about doing it. We can use SCP-which I don't recommend- or we can push our site's codes to GitHub and clone it to our machine. I recommmend GitHub option because it's crucial to use GitHub if we want to have an automated deployment system.
+At this point, our site will be working under `/var/www/yoursite.com/_site` build it to `_site` folder and enter our machine IP address to browser. We need to get site files to our server machine, and we have options about doing it. We can use SCP-which I don't recommend- or we can push our site's codes to GitHub and clone it to our machine. I recommmend GitHub option because it's crucial to use GitHub if we want to have an automated deployment system.
 If you haven't already, push your codes to GitHub. Then we are going to clone it to our home folder, then build from home folder to `/var/www/yoursite.com/_site`:
 
 ```bash
