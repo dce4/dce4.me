@@ -15,7 +15,7 @@ First things first, we'll be using Jekyll static website generator on Linux, Rub
 Prerequisites:
 - Ruby-Full
 - Jekyll
-- Bundler gems
+- Bundler Gems
 
 
 We can install Ruby with:
