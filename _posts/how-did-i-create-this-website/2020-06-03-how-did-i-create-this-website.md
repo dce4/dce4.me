@@ -71,7 +71,7 @@ All posts located in \_posts folder and enhanced with useful and easy-to-use lan
 <figcaption>This posts codes</figcaption>
 </figure>
 
-On the top of each post you'll se a section marked between three dashes(---) which named <b>front matter</b> and you can write this section either **JSON** or **YAML**. You can add a date, title, layout or more there. Please check the example usages of those so you'll be able to use them for your individual purposes.
+On the top of each post you'll see a section marked between three dashes(---) which named <b>front matter</b> and you can write this section either **JSON** or **YAML**. You can add a date, title, layout or more there. Please check the example usages of those so you'll be able to use them for your individual purposes.
 
 # Hosting your website
 
@@ -158,7 +158,7 @@ server {
     }
 }
 ```
-After we done with configurations, we can install Ruby and Gems to our server, so it can build and deploy the website codes:
+After we are done with configurations, we can install Ruby and Gems to our server, so it can build and deploy the website codes:
 
 ```bash
 sudo apt-get install ruby-full build-essential zlib1g-dev
@@ -237,7 +237,7 @@ sudo chown <username>:<usergroup> /var/www/yoursite
 sudo ufw allow 5000/tcp
 ```
 
-Only one step left before having our automated website, and this is creating a webhook and running the webhook handler in background. After we go to our repo settings, we'll se the Webhooks tab, and we can easily set a webhook there:
+Only one step left before having our automated website, and this is creating a webhook and running the webhook handler in background. After we go to our repo settings, we'll see the Webhooks tab, and we can easily set a webhook there:
 <figure>
 <img src="/how-did-i-create-this-website/webhook.png" alt="">
 <figcaption>Creating Webhook</figcaption>
