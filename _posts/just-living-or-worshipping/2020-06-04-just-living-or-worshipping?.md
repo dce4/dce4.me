@@ -19,6 +19,6 @@ What can the Creator do, we -all the people in the world- can’t? Create lives?
 
 > <i>Everybody worships. The only choice is what we worship. Some people kneel to money, some to power or intellect.</i>
 
-Actually, this episode of Messiah got me thinking about all of those ideas. We are trying to stay alive in this society by going school, college; having a job, a responsibility to get paid. We are only getting paid while we are serving the society and almost all of us follow this rule as a default, without questioning it. Therefore, maybe we are unintentionally idolizing our jobs, companies, skills to worship to the humanity, to ourselves. But when we think of it, how can we survive if we don't serve to the humanity?
+Actually, this episode of Messiah got me thinking about all of those ideas. We are trying to stay alive in this society by going school, college; having a job, a responsibility to get paid. We are only getting paid while we are serving the society and almost all of us follow this rule as a default, without questioning it. Therefore, maybe we are unintentionally idolizing our jobs, companies, skills to worship to the humanity, to *ourselves*. But when we think of it, how can we survive if we don't serve to the humanity?
 
 If you have a answer or want to criticize those ideas, feel free to share!
