@@ -13,7 +13,7 @@ What can the Creator do, we -all the people in the world- can’t? Create lives?
 
 <figure>
 <img src="{{page.image}}" alt="">
-<figcaption>Messiah Season 1 Episode 4</figcaption>
+<figcaption>Messiah Season 1 Episode 4.</figcaption>
 </figure>
 
 
